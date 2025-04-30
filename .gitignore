@@ -1,2 +1,21 @@
 .next
 node_modules
+
+# Clacky-related configuration
+.1024*
+!.1024
+.breakpoints
+
+# Language-specific files
+*.log
+*.tsbuildinfo
+
+# Framework-related files
+out
+
+# Package manager directories
+.pnpm-store
+
+# OS-specific files
+.DS_Store
+Thumbs.db
